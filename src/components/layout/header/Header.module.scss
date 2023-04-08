@@ -1,0 +1,17 @@
+.wrap {
+    width: 92%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 0 auto;
+    border-bottom: 1px solid darkblue;
+}
+
+
+.activeLInk, .plainLink {
+    font-size: 20px;
+
+}
+.activeLInk {
+    color: darkblue;
+}
